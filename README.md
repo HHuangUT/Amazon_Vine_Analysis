@@ -1,9 +1,12 @@
+
 # Amazon_Vine_Analysis
 ## Overview
 
 Determine if there is any bias toward favorable reviews from Vine members in your dataset (Furniture).
 
 ## Results
+
+![Review_Summary](https://user-images.githubusercontent.com/80546200/123577904-4a838200-d79a-11eb-87e1-aaa9ccff9017.png)
 
 How many Vine reviews and non-Vine reviews were there?
 
